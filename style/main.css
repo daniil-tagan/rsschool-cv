@@ -1,0 +1,59 @@
+body {
+    font-family: Garamond,Baskerville,Baskerville Old Face,'Hoefler Text','Times New Roman',serif; 
+    letter-spacing: 1px;
+    color: #252c33;
+}
+
+.main-container {
+    max-width: 1024px;
+    margin: 16px auto;
+    background-color: white;
+    padding: 0 16px;
+    border-left: 8px solid dodgerblue;
+}
+
+.table-container {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+}
+
+.row {
+    padding: 0 8px 16px 8px;
+}
+
+.accent {
+    color: dodgerblue;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.title {
+    margin-bottom: 0;
+}
+
+.subtitle {
+    margin-top: 0;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+h4.section-title {
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    padding: 4px 0;
+}
+
+td.icon {
+    margin-right: 4px;
+}
+
+.full-width {
+    width: 100%;
+}
