@@ -16,3 +16,22 @@ Education
 
 2013-2017
 - **mechatronics and robotics**; ISTU (Izhevsk)
+
+Experience
+----------
+
+**[Piano](https://piano.io/)** Middle Backend Developer
+
+Technical Experience
+--------------------
+
+Programming Languages
+- **Java:** 
+- **Kotlin:** 
+- **javascript:** 
+- Basic knowledge of **C#**
+
+English
+-------
+
+**B1 Intermediate**
